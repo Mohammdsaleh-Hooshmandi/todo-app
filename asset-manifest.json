@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/todo-app/static/js/main.86dac470.js",
+    "static/media/bg-image.jpg": "/todo-app/static/media/bg-image.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/todo-app/index.html",
+    "static/media/icon-sun.svg": "/todo-app/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/todo-app/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "main.86dac470.js.map": "/todo-app/static/js/main.86dac470.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.86dac470.js"
+  ]
+}
